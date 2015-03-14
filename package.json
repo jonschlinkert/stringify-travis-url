@@ -1,6 +1,6 @@
 {
   "name": "stringify-travis-url",
-  "description": "Generate a Travis CI URL from a list of arguments or an object.",
+  "description": "Generate a Travis CI URL.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/stringify-travis-url",
   "author": {
